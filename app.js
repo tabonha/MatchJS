@@ -12,7 +12,7 @@ const cardArray = [
 },
 {
 	name: 'bluepolygon',
-	img: 'images/blurpolygon.png'
+	img: 'images/bluepolygon.png'
 },
 {
 	name: 'bluepolygon',
